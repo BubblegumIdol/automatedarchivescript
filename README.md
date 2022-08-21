@@ -8,6 +8,10 @@ Script only works for Windows
 6. The videos will be in the Recordings folder
 7. Profit!
 
-The script will work as is, but at a lower quality. Download [ffmpeg](https://github.com/yt-dlp/FFmpeg-Builds#ffmpeg-static-auto-builds) to improve quality.
+The script will work as is, but at a lower quality. **Download [ffmpeg](https://github.com/yt-dlp/FFmpeg-Builds#ffmpeg-static-auto-builds) to improve quality.**
 
 ![Download link](./downloadlink.jpg)
+
+Extract the contents inside ffmpeg-master-latest-winXX-gpl/bin into the same folder as yt-dlp.exe
+
+![Extraction path](./extractionpath.png)
