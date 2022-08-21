@@ -3,7 +3,7 @@ Script only works for Windows
 1. Top right corner green button Code > Download ZIP. Extract all contents in the same folder
 2. (Paid Streams Only) Replace the default cookies.txt with your own exported cookies.txt
 3. Double click the Easy youtube-dl Script.bat
-4. Paste the video URL
+4. Paste the video URL and hit Enter
 5. ???
 6. The videos will be in the Recordings folder
 7. Profit!
