@@ -9,3 +9,5 @@ Script only works for Windows
 7. Profit!
 
 The script will work as is, but at a lower quality. Download [ffmpeg](https://github.com/yt-dlp/FFmpeg-Builds#ffmpeg-static-auto-builds) to improve quality.
+
+!(Download link.png)
