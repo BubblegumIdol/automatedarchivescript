@@ -1,7 +1,7 @@
 Script only works for Windows
 
 1. Top right corner green button Code > Download ZIP. Extract all contents in the same folder
-2. (Paid Streams Only) The script will generate a cookies.txt file on first run. Replace the default cookies.txt with your own exported cookies.txt
+2. (Paid Streams Only) Replace the default cookies.txt with your own exported cookies.txt
 3. Double click the Easy youtube-dl Script.bat
 4. Paste the video URL
 5. ???
