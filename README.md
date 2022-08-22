@@ -1,4 +1,4 @@
-Script only works for Firefox browser on Windows
+# Script only works for Firefox browser on Windows
 
 # How to use
 
