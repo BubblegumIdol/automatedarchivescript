@@ -17,5 +17,5 @@ Extract the contents inside ffmpeg-master-latest-winXX-gpl/bin into the same fol
 
 # Paid Streams
 
-To download paid streams on spwn, you will need the cookies.txt extension [Chrome](https://chrome.google.com/webstore/detail/get-cookiestxt/bgaddhkoddajcdgocldbbfleckgcbcid) [Firefox](https://addons.mozilla.org/en-US/firefox/addon/cookies-txt/)
+To download paid streams on spwn, you will need the cookies.txt extension ([Chrome](https://chrome.google.com/webstore/detail/get-cookiestxt/bgaddhkoddajcdgocldbbfleckgcbcid) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/cookies-txt/))
 
