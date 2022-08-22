@@ -1,5 +1,7 @@
 Script only works for Windows
 
+# How to use
+
 1. Top right corner green button Code > Download ZIP. Extract all contents in the same folder
 2. Double click the Easy yt-dlp Script.bat
 3. Paste the video URL and hit Enter
@@ -22,3 +24,5 @@ To download paid streams on spwn, you will need the cookies.txt extension ([Chro
 Place and rename the cookies.txt file like this below. If cookies.txt already exist, delete and replace it with the new exported one
 
 ![cookies path](./cookiespath.png)
+
+Then follow How to use above
