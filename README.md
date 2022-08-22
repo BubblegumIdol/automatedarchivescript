@@ -25,4 +25,4 @@ Place and rename the cookies.txt file like this below. If cookies.txt already ex
 
 ![cookies path](./cookiespath.png)
 
-Then follow How to use above
+Then follow **How to use** above
