@@ -22,7 +22,11 @@ To download paid streams on spwn, you will need the cookies.txt extension ([Chro
 1. Go to the video on the website and play it
 2. Use the cookies.txt extension and export the cookies.txt file
 
+Firefox
 ![firefox cookies export](Images/firefoxcookiesexample.png)
+
+Chrome
+![chrome cookies export] (Images/chromecookiesexample.png)
 
 3. Place and rename the cookies.txt file like this below. If cookies.txt already exist, delete and replace it with the new exported one
 
