@@ -26,7 +26,7 @@ Firefox
 ![firefox cookies export](Images/firefoxcookiesexample.png)
 
 Chrome
-![chrome cookies export] (Images/chromecookiesexample.png)
+![chrome cookies export](Images/chromecookiesexample.png)
 
 3. Place and rename the cookies.txt file like this below. If cookies.txt already exist, delete and replace it with the new exported one
 
