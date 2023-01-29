@@ -5,11 +5,11 @@
 ![Folder Example](Images/folderexample.png)
 
 2. For [Paid Streams](#Paid-Streams) follow the instructions linked
-2. Double click the Easy yt-dlp Script.bat
-3. Paste the video URL and hit Enter
-4. Wait for the video to finish downloading. The videos will be in the Recordings folder
-5. ???
-6. Profit!
+3. Double click the Easy yt-dlp Script.bat
+4. Paste the video URL and hit Enter
+5. Wait for the video to finish downloading. The videos will be in the Recordings folder
+6. ???
+7. Profit!
 
 The script will work as is, but at a lower quality. **[Download ffmpeg](https://github.com/yt-dlp/FFmpeg-Builds#ffmpeg-static-auto-builds) to improve quality.**
 
@@ -42,3 +42,9 @@ Chrome
 4. You may now pause the video
 
 Then follow [How to use](#How-to-use) above
+
+## Troubleshooting
+
+1. I got a 403 Error!
+
+The cookies go stale very fast. Delete the old cookies.txt file, and export a new one again. Then follow step 2 as normal. You may have to try this a few times. 
