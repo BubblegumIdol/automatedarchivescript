@@ -1,3 +1,5 @@
+# For paid streams scroll down for extra instructions!
+
 ## How to use
 
 1. Top right corner green button Code > Download ZIP. Extract all contents in the same folder
