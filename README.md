@@ -1,6 +1,9 @@
 ## How to use
 
 1. Top right corner green button Code > Download ZIP. Extract all contents in the same folder
+
+![Folder Example](Images/folderexample.png)
+
 2. For [Paid Streams](#Paid-Streams) follow the instructions linked
 2. Double click the Easy yt-dlp Script.bat
 3. Paste the video URL and hit Enter
