@@ -7,8 +7,8 @@
 2. For [Paid Streams](#Paid-Streams) follow the instructions linked
 2. Double click the Easy yt-dlp Script.bat
 3. Paste the video URL and hit Enter
-4. ???
-5. The videos will be in the Recordings folder
+4. Wait for the video to finish downloading. The videos will be in the Recordings folder
+5. ???
 6. Profit!
 
 The script will work as is, but at a lower quality. **[Download ffmpeg](https://github.com/yt-dlp/FFmpeg-Builds#ffmpeg-static-auto-builds) to improve quality.**
