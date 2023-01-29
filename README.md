@@ -36,4 +36,6 @@ Chrome
 
 ![cookies path](Images/cookiespath2.png)
 
-Then follow **How to use** above
+4. You may now pause the video
+
+Then follow [How to use](#How-to-use) above
