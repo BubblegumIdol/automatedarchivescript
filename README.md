@@ -20,8 +20,9 @@ Extract the contents inside ffmpeg-master-latest-winXX-gpl/bin into the same fol
 
 To download paid streams on spwn, you will need the cookies.txt extension ([Chrome](https://chrome.google.com/webstore/detail/get-cookiestxt/bgaddhkoddajcdgocldbbfleckgcbcid)/ [Firefox](https://addons.mozilla.org/en-US/firefox/addon/cookies-txt/))
 
-1. Go to the video on the website and play it
-2. Use the cookies.txt extension and export the cookies.txt file
+1. Go to the video on the website
+2. Make sure the video is playing
+3. Use the cookies.txt extension and export the cookies.txt file
 
 ![firefox cookies export](Images/firefoxcookiesexample.png)
 
