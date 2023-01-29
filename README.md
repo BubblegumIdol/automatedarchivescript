@@ -45,6 +45,6 @@ Then follow [How to use](#How-to-use) above
 
 ## Troubleshooting
 
-1. I got a 403 Error!
+1. I got an `Error 403 : Forbidden`!
 
 The cookies go stale very fast. Delete the old cookies.txt file, and export a new one again. Then follow step 2 as normal. You may have to try this a few times. 
