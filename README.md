@@ -10,8 +10,7 @@
 5. Wait for the video to finish downloading. The videos will be in the Recordings folder
 6. ???
 7. Profit!
-
-### [Troubleshooting](#Troubleshooting)
+8. If you have an error, go to [Troubleshooting](#Troubleshooting)
 
 The script will work as is, but at a lower quality. **[Download ffmpeg](https://github.com/yt-dlp/FFmpeg-Builds#ffmpeg-static-auto-builds) to improve quality.**
 
