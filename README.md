@@ -12,7 +12,7 @@
 7. Profit!
 8. If you have an error, go to [Troubleshooting](#Troubleshooting)
 
-The script will work as is, but at a lower quality. Optionally **[Download ffmpeg](https://github.com/yt-dlp/FFmpeg-Builds#ffmpeg-static-auto-builds) to improve quality.**
+The script will work as is, but at a lower quality. **[Download ffmpeg](https://github.com/yt-dlp/FFmpeg-Builds#ffmpeg-static-auto-builds) to improve quality.**
 
 ![Download link](Images/downloadlink.jpg)
 
