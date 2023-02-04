@@ -47,4 +47,10 @@ Then follow [How to use](#How-to-use) above
 
 1. I got an `Error 403 : Forbidden`!
 
-The cookies go stale very fast. Delete the old cookies.txt file, and export a new one again. Then follow step 2 as normal. You may have to try this a few times. 
+There may be two links that are randomly assigned to different people, and if you use the wrong one you will see this error. The cookies also go stale very fast, which is a second source for this error. To remedy this:
+
+1. Follow [How to use](#How-to-use) with one of the links
+2. If you get this error, delete your cookies.txt file, and export a new one. Then follow [How to use](#How-to-use) again. (You may have to do this 2-3 times)
+3. If you still get an error, replace/modify the link with the second link. Re-export cookies.txt as needed.
+
+![two links](Images/twolinksexample.png)
