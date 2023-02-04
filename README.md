@@ -27,13 +27,13 @@ To download paid streams on a website, you will need the cookies.txt extension (
 2. Make sure the video is playing
 3. Use the cookies.txt extension and export the cookies.txt file
 
-![firefox cookies export](Images/firefoxcookiesexample.png)
-
 Firefox
 
-![chrome cookies export](Images/chromecookiesexample.png)
+![firefox cookies export](Images/firefoxcookiesexample.png)
 
 Chrome
+
+![chrome cookies export](Images/chromecookiesexample.png)
 
 3. Place and rename the cookies.txt file like this below. If cookies.txt already exist, delete and replace it with the new exported one
 
